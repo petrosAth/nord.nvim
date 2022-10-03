@@ -1,4 +1,4 @@
-#nord.nvim
+# nord.nvim
 A port of [Nord](https://www.nordtheme.com/) theme for my Neovim config using
 [lush.nvim](https://github.com/rktjmp/lush.nvim).
 
